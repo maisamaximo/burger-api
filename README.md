@@ -7,4 +7,11 @@ json-server --watch db.json
 
 [https://git.heroku.com/mm-burger-api.git](https://mm-burger-api.herokuapp.com/)
 
-![fetch example](https://user-images.githubusercontent.com/16991001/175823221-fd3d9d52-59a5-48a5-a991-d779c14c37e9.png)
+![fetch example](https://user-images.githubusercontent.com/16991001/175823247-fea282eb-e8d0-48da-943b-d68b55279bdf.png)
+
+#### To access and modify resources, you can use any HTTP method:
+
+<code>GET</code>
+<code>POST</code>
+<code>PUT</code>
+<code>DELETE</code>
