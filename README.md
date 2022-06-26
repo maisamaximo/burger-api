@@ -1,4 +1,10 @@
-# Burger API :hamburger:
+<h1 align="center">Burger API :hamburger:</h1>
+<p>
+  <a href="#" target="_blank">
+    <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
+  </a>
+</p>
+
 
 ![Screen Shot 2022-06-26 at 16 59 54](https://user-images.githubusercontent.com/16991001/175823046-417164c0-48b1-41b2-8020-adda0e35d689.png)
 
