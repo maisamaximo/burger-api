@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/16991001/175823046-417164c0-48b1-41b2-8020-adda0e35d689.pn)" />
+  <img  src="https://user-images.githubusercontent.com/16991001/175823046-417164c0-48b1-41b2-8020-adda0e35d689.png" />
 <p>
 
 <p style="color: #616569; font-size: 1.25rem">This <strong>mock API</strong> was developed as a case study. The response of this API is a list of hamburgers where you will also have access to the name of the restaurant, email, address and the ingredients of the composition of your snack.</p>
