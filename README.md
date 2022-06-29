@@ -35,3 +35,6 @@
 ## Object Structure
 
 ![burger/:id](https://user-images.githubusercontent.com/16991001/175823849-953b0a75-33b3-4e3e-80e2-ebcc8ddc054e.png)
+
+<hr>
+<p align="center">𝙼𝚊𝚍𝚎 𝚠𝚒𝚝𝚑 𝚕𝚘𝚟𝚎 ❥<p>
